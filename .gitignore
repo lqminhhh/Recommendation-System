@@ -1,2 +1,5 @@
-/metadata/*
+/checkpoints/*
 .DS_Store
+/metadata/*
+/ml-latest-small/*
+/notebooks/checkpoints/*
